@@ -115,6 +115,6 @@ nav a:hover {
 	font-size: 125%;
 }
 
-.gallery-unit:hover {
+.gallery-unit:hover, #title:hover {
 	opacity: .75;
 }
