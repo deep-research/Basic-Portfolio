@@ -128,16 +128,12 @@ footer {
 
 .gallery-unit {
 	position: relative;
-	width: 47.88%;
-	height: 47.88%;
+	width: 282px;
+	/*height: 282px;*/
 	float: left;
+	padding-bottom: 25px;
 }
 
-.column-1 {
+.gallery-column {
 	margin-right: 25px;
-	margin-bottom: 25px;
-}
-
-.column-2 {
-	margin-bottom: 25px;
 }
